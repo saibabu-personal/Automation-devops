@@ -1,0 +1,11 @@
+ypes of Version control system:
+=============================================================================================================================
+1. Centralized version control system:
+-------------------------------------------------
+a. No parallel development
+b. high chances of data loss
+c. online connection to make changes - internet connection
+d. License cost
+
+eg: Clearcase, sub-version 
+--------------------------
