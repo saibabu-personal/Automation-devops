@@ -3,3 +3,7 @@
 * Tag creation and deletion
 * Add/Delete files and commit changes
 * List the commit and check detailed info commits.
+
+
+push pull
+clone
