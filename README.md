@@ -6,3 +6,6 @@ git@github.com:saibabu-personal/Automation-devops.git
 * Tag creation and deletion
 * Add/Delete files and commit changes
 * List the commit and check detailed info commits.
+
+* hyper auto
+* magic
